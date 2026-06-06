@@ -1,0 +1,49 @@
+# Geotechnique — Draguignan
+
+> Geotechnical engineering services in Draguignan, France.
+
+## Services
+- [Amelioration Sols](https://draguignan.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://draguignan.geotechnique.vip/ancrages/)
+- [Chaussee Rigide](https://draguignan.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://draguignan.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://draguignan.geotechnique.vip/colonnes-ballastees/)
+- [Essai Cpt](https://draguignan.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://draguignan.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://draguignan.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://draguignan.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://draguignan.geotechnique.vip/fondations/)
+- [Geophysique](https://draguignan.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://draguignan.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://draguignan.geotechnique.vip/granulometrie/)
+- [Injections](https://draguignan.geotechnique.vip/injections/)
+- [Investigation](https://draguignan.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://draguignan.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://draguignan.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://draguignan.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://draguignan.geotechnique.vip/limites-atterberg/)
+- [Masw](https://draguignan.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://draguignan.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://draguignan.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://draguignan.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://draguignan.geotechnique.vip/pieux/)
+- [Puits Inspection](https://draguignan.geotechnique.vip/puits-inspection/)
+- [Radiers](https://draguignan.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://draguignan.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://draguignan.geotechnique.vip/resistivite/)
+- [Semelles](https://draguignan.geotechnique.vip/semelles/)
+- [Sismique](https://draguignan.geotechnique.vip/sismique/)
+- [Sondages Spt](https://draguignan.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://draguignan.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://draguignan.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://draguignan.geotechnique.vip/talus/)
+- [Triaxial](https://draguignan.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://draguignan.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://draguignan.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://draguignan.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Draguignan, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
